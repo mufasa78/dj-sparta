@@ -120,7 +120,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-white/10 pt-8">
           <p className="text-center text-gray-400">
-            {currentYear} DJ Sparta. All rights reserved.
+            {currentYear} DJ Sparta. All rights reserved. By Help With Mufasa
           </p>
         </div>
       </div>
