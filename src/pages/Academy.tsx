@@ -46,8 +46,8 @@ const Academy = () => {
   const packages = [
     {
       title: 'Basic Package',
-      price: '30,000',
-      duration: '1 Month',
+      price: '20,000',
+      duration: ' 3 Months',
       features: [
         'Access to 2 core courses',
         'Basic equipment training',
@@ -60,7 +60,7 @@ const Academy = () => {
     },
     {
       title: 'Professional Package',
-      price: '75,000',
+      price: '30,000',
       duration: '3 Months',
       features: [
         'Access to all courses',
@@ -76,8 +76,8 @@ const Academy = () => {
     },
     {
       title: 'Master Package',
-      price: '150,000',
-      duration: '6 Months',
+      price: '70,000',
+      duration: '4 Months',
       features: [
         'All Professional features',
         'Advanced production tools',
